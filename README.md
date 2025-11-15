@@ -42,7 +42,7 @@ Avant de démarrer, assurez-vous d'avoir :
 - **Node.js** v22 minimum ([télécharger](https://nodejs.org/en/download))
 - **TypeScript** v5+ ([télécharger](https://www.typescriptlang.org/))
 - **Package manager** : npm, pnpm, yarn ou bun
-- **Clé API** via [OpenRouter](https://openrouter.ai/) pour accéder aux LLMs (Claude, GPT, Gemini, Mistral...)
+- **Clé API** via [OpenRouter](https://openrouter.ai/) pour accéder aux agents (Claude, GPT, Gemini, Mistral...)
 
 ## 🚀 Démarrage
 
